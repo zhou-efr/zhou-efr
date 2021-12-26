@@ -16,7 +16,7 @@ When we learned that more than 44% of French people take medication every day, w
 With a personalized rendering and an easy-to-use application, we wanted to make instructions for use and general information about medications accessible.
 
 ## The panda ~~do not~~ share its food
-I make sure that all my projects can easily be cloned.
+I try to make all my projects can easy to clone.
 ### Python projects
 I store the dependencies of python projects in `requirements.txt` files. I recommend you to use a
 [virtual environment](https://docs.python.org/fr/3/library/venv.html) yet you only need to run `pip install -r
