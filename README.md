@@ -15,7 +15,7 @@ When we learned that more than 44% of French people take medication every day, w
 
 With a personalized rendering and an easy-to-use application, we wanted to make instructions for use and general information about medications accessible.
 ### Portfolio art deco
-[![](<img src="https://raw.githubusercontent.com/zhou-efr/zhou-efr/main/files/projectsIcons/shield.png" style="height: 28px">)](https://zhou-efr.github.io/ArtDecoPortfolio/) <br/>
+<a href="https://zhou-efr.github.io/ArtDecoPortfolio/"><img src="https://raw.githubusercontent.com/zhou-efr/zhou-efr/main/files/projectsIcons/shield.png" style="height: 28px"/></a> <br/>
 [link]("https://github.com/zhou-efr/projetmoniques")  
 
 This one is a easy one, a simple one-page portfolio template make for a school project
