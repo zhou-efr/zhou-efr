@@ -19,6 +19,15 @@ With a personalized rendering and an easy-to-use application, we wanted to make 
 [link]("https://github.com/zhou-efr/projetmoniques")  
 
 This one is a easy one, a simple one-page portfolio template make for a school project
+### Tdt Website
+<a href="https://zhou-efr.github.io/ArtDecoPortfolio/"><img src="https://raw.githubusercontent.com/zhou-efr/zhou-efr/main/files/projectsIcons/shield_2.png" style="height: 28px"/></a> <br/>
+[link]("https://github.com/zhou-efr/projetmoniques")  
+
+Also an easy one but you know, some time we need to go easy with life. 
+
+Nevertheless it offered me quite a challenge, to begin with, I had to write the API two times... First, I wrote it in [expressJs](https://expressjs.com/fr/) with [Sequelize](https://sequelize.org/) then [Tedious](https://tediousjs.github.io/tedious/) due to a production on [Azure databases](https://azure.microsoft.com/en-us/products/azure-sql/). A problem never coming alone, I thereafter rewrote the API in order to work with [Azure function](https://azure.microsoft.com/en-us/services/functions/), it works quite well but not enough. That's why (and with a unexpected wants to code in C#) I finally write the API with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-6.0) and the [Entity Framework](https://docs.microsoft.com/en-us/ef/core/).
+
+Eventually, the front was really simple. An implementation in [ReactJs](https://fr.reactjs.org/) (boosted by [ReactRouter](https://reactrouter.com/) and [Tailwindcss](https://tailwindcss.com/)) with some [Auth0](https://auth0.com/fr) to easly deal with [oauth2](https://oauth.net/2/) and [OIDC](https://openid.net/connect/). It isn't the most complicated design I've done, yet it still does the job. 
 ## The panda ~~do not~~ share its food
 I try to make all my projects can easy to clone.
 ### Python projects
