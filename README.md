@@ -19,6 +19,11 @@ With a personalized rendering and an easy-to-use application, we wanted to make 
 [link]("https://github.com/zhou-efr/projetmoniques")  
 
 This one is a easy one, a simple one-page portfolio template make for a school project
+### EFREI promo 2024 exercices
+<a href="https://github.com/zhou-efr/efrei-promo-2024-exercices"><img src="https://raw.githubusercontent.com/zhou-efr/zhou-efr/main/files/projectsIcons/efrei2024.png" style="height: 28px"/></a> <br/>
+[link]("https://github.com/zhou-efr/efrei-promo-2024-exercices")
+
+lorem ipsum
 ### Tdt Website
 <a href="https://ambitious-dune-09528a410.1.azurestaticapps.net/"><img src="https://raw.githubusercontent.com/zhou-efr/zhou-efr/main/files/projectsIcons/shield_2.png" style="height: 28px"/></a> <br/>
 [frontend - link]("https://github.com/zhou-efr/tavendutroll")  
