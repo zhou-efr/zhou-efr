@@ -9,13 +9,7 @@ During my studies, I worked on many projects that would not have been possible w
 ### Cybersecurity certifications
 Recently I choose to specialise myself in [Cybersecurity, IS, Internet Governance](https://eng.efrei.fr/graduate-programs/information-systems-security/), in order to prepare this program, I started few certifications. You can follow my progress through my online notebook on _[Notion](https://zhou-efr.notion.site/Cybers-curit-b5e0009d00ed4d7b842a009cbcb98c00)_. 
 
-<div style="display: flex; height: 100px; align-items: center; justify-content: space-around; flex-direction: row;border: solid gray 1px;background-color: #fff; border-radius: 5px">
-    <div style="display: flex; justify-content: center; margin-top: 10px; height: 100%; flex-direction: column;">
-        <a href="https://zhou-efr.notion.site/Cybers-curit-b5e0009d00ed4d7b842a009cbcb98c00"><h2 style="padding: 0; margin: 0;color: black;">Cybersécurité</h2></a>
-        <a href="https://zhou-efr.notion.site/Cybers-curit-b5e0009d00ed4d7b842a009cbcb98c00"><p>A little bloc-note following my journey in cybersecurity</p></a>
-    </div>
-    <a href="https://zhou-efr.notion.site/Cybers-curit-b5e0009d00ed4d7b842a009cbcb98c00"><img src="./files/image/noun-3797344.png" style="height: 80px;object-fit: contain;" alt="phone with a lock on the screen"/></a>
-</div>
+<a href="https://zhou-efr.notion.site/Cybers-curit-b5e0009d00ed4d7b842a009cbcb98c00"><img src="./files/image/c.png" style="height: 100px;object-fit: contain;" alt="A little bloc-note following my journey in cybersecurity"/></a>
 
 ### OPCI
 <a href="https://github.com/zhou-efr/OPCI-copy"><img src="files/projectsIcons/OPCI.png" style="height: 28px"/></a> <br/>
